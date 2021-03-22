@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Meriches
+- 👀 I’m interested in learn new stuff, now i want to become an data analyst :) it super fun
+- 🌱 I’m currently learning the basic stuff on python, SQL
+- 💞️ I’m looking to collaborate on difrfrent proyects, and of course have a nice frequency with the team, lets enjoy code!
